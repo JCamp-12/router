@@ -1,4 +1,8 @@
 https://github.com/Miniplop/react-camera
+https://quantizd.com/building-a-snipping-tool-with-electron-react-and-node-js/
+https://developers.google.com/web/updates/2015/10/media-devices
+https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices
+http://sviridovserg.com/2017/09/18/react-photo-capture/
 
 
 
